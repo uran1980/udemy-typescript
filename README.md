@@ -21,3 +21,8 @@ then
 ```
 npm run start
 ```
+
+Links
+-----
+
+* https://sebastiandedeyne.com/typescript-with-laravel-mix
