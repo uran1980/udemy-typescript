@@ -3,7 +3,8 @@ Udemy :: Understanding Typescript
 
 > @see https://www.udemy.com/understanding-typescript/
 
-# Usage
+Usage
+-----
 
 ```
 npm run dev
